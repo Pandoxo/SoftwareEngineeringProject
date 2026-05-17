@@ -12,7 +12,7 @@
 
     <groupId>pl.put.poznan</groupId>
     <artifactId>json-tools</artifactId>
-    <version>0.1</version>
+    <version>1.0.0</version>
     <name>JSON Tools</name>
     <description>Application for formatting, filtering, and comparing JSON structures.</description>
 

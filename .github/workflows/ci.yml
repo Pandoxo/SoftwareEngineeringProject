@@ -2,7 +2,7 @@ name: CI - Build and Package
 
 on:
   push:
-    branches: [main, third]
+    branches: [main]
   pull_request:
     branches: [main]
 
