@@ -10,6 +10,8 @@ The JSON Tools Application is designed specifically for programmers who need to 
 
 It is accessible via a Graphical User Interface (GUI) for manual operations and a remote API for easy integration into existing developer workflows and CI/CD pipelines.
 
+[Sprint Grading Rules Google Sheet](https://docs.google.com/spreadsheets/d/1EcWb4sr937r_odf31cbxdsNQNDbsQ71L/edit?usp=sharing&ouid=100614361376581630223&rtpof=true&sd=true)
+
 ---
 
 ## 🚀 Key Features
