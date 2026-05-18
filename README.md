@@ -1,10 +1,10 @@
-# 🛠️ JSON Tools Application
+# JSON Tools Application
 
 > **A comprehensive suite for developers to reformat, filter, and compare JSON data structures seamlessly.**
 
 ---
 
-## 📖 Project Description
+## Project Description
 
 The JSON Tools Application is designed specifically for programmers who need to manipulate, analyze, and structure JSON data. Whether you need to compress large payloads, beautify unreadable strings, or compare different JSON structures side-by-side, this application provides all the necessary tools in one place. 
 
@@ -14,16 +14,16 @@ It is accessible via a Graphical User Interface (GUI) for manual operations and 
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-* **🗜️ Minification:** Compress unminified JSON representations to optimize storage space and minimize network payload size.
-* **✨ Formatting:** Beautify and unminify JSON by automatically applying appropriate indentation and line breaks for maximum human readability.
-* **🔍 Filtering & Comparison:** Easily isolate specific data structures and perform detailed, side-by-side comparisons between different JSON payloads to spot differences instantly.
-* **🌐 Flexible Access:** Utilize the tools through an intuitive GUI or leverage the remote API for programmatic access.
+* ** Minification:** Compress unminified JSON representations to optimize storage space and minimize network payload size.
+* ** Formatting:** Beautify and unminify JSON by automatically applying appropriate indentation and line breaks for maximum human readability.
+* ** Filtering & Comparison:** Easily isolate specific data structures and perform detailed, side-by-side comparisons between different JSON payloads to spot differences instantly.
+* ** Flexible Access:** Utilize the tools through an intuitive GUI or leverage the remote API for programmatic access.
 
 ---
 
-## 💻 Getting Started (Local Development)
+## Getting Started (Local Development)
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
