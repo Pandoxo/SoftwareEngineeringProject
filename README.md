@@ -38,8 +38,8 @@ Ensure you have the following installed:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/Pandoxo/ComputerEngineering/SoftwareEngineeringProject](https://github.com/Pandoxo/ComputerEngineering/SoftwareEngineeringProject)
-cd SoftwareEngineeringProject
+git clone https://github.com/Pandoxo/JSON-Tools.git
+cd JSON-Tools
 ```
 **2. Start the Backend (Spring Boot):**
 ```Bash
