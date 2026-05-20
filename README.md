@@ -36,16 +36,16 @@ Ensure you have the following installed:
 
 ### Installation Steps
 
-**1. Clone the repository:**
+**1. Clone the repository: **
 ```bash
 git clone https://github.com/Pandoxo/JSON-Tools.git
 cd JSON-Tools
 ```
-**2. Start the Backend (Spring Boot):**
+**2. Start the Backend (Spring Boot): **
 ```Bash
 mvn spring-boot:run
 ```
-**3. Start the Frontend:**
+**3. Start the Frontend: **
 Open a new terminal window/tab, navigate to the frontend directory, install dependencies, and run the development server:
 
 ```Bash
@@ -53,7 +53,7 @@ cd frontend
 npm install
 npm run dev
 ```
-**4. Generate documentation:**
+**4. Generate documentation: **
 To build the executable .jar file and automatically generate the Javadoc documentation, run the following command in the root directory:
 ```Bash
 mvn clean package
